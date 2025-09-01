@@ -97,5 +97,5 @@ I thrive in **international, cross-functional teams** and am motivated to contri
 
 📫 **Contact:** [rumayorjohnathan@gmail.com](mailto:rumayorjohnathan@gmail.com) | [LinkedIn](https://www.linkedin.com/in/johnathan-rumayor/)  
 
-![Logo do Java]([https://img.shields.io/badge/Java-17+-red?logo=java&logoColor=white](https://www.citypng.com/public/uploads/preview/hd-java-programming-logo-png-701751694771848sm650yaqjt.png)
+![Logo do Java](https://www.citypng.com/public/uploads/preview/hd-java-programming-logo-png-701751694771848sm650yaqjt.png)
 
